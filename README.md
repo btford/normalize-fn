@@ -15,5 +15,5 @@ var normalizeFn = require('normalize-fn');
 ## License
 MIT
 
-[esprima]: foo
-[escodegen]: foo
+[esprima]: http://esprima.org/
+[escodegen]: https://github.com/Constellation/escodegen
