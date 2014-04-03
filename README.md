@@ -1,4 +1,4 @@
-# normalize-fn
+# normalize-fn [![Build Status](https://travis-ci.org/btford/normalize-fn.png?branch=master)](https://travis-ci.org/btford/normalize-fn)
 
 Use [esprima][] and [escodegen][] to "normalize" some code.
 
